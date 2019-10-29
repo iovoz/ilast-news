@@ -128,7 +128,9 @@ body {
 
         .item {
             padding: 8px;
-            height: 525px;
+            @media screen and (min-width: $mobile-h){
+                height: 525px;
+            }
 
             .item-content {
                 display: flex;
