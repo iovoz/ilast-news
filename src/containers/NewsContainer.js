@@ -7,7 +7,7 @@ import LoadingContainer from '../components/loading/LoadingContainer';
 import _ from 'lodash';
 import { fetchNews } from '../redux/actions/newsActions';
 
-class NewsContainer extends Component {
+export class NewsContainer extends Component {
     static propTypes = {
         intl: PropTypes.object.isRequired,
         ajaxStatus: PropTypes.object.isRequired,
