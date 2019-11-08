@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ilast-news/static/css/main.0e0ac034.chunk.css",
+    "main.js": "/ilast-news/static/js/main.fcfc458c.chunk.js",
+    "main.js.map": "/ilast-news/static/js/main.fcfc458c.chunk.js.map",
+    "runtime-main.js": "/ilast-news/static/js/runtime-main.89c341af.js",
+    "runtime-main.js.map": "/ilast-news/static/js/runtime-main.89c341af.js.map",
+    "static/css/2.39de1a12.chunk.css": "/ilast-news/static/css/2.39de1a12.chunk.css",
+    "static/js/2.5f07895d.chunk.js": "/ilast-news/static/js/2.5f07895d.chunk.js",
+    "static/js/2.5f07895d.chunk.js.map": "/ilast-news/static/js/2.5f07895d.chunk.js.map",
+    "index.html": "/ilast-news/index.html",
+    "precache-manifest.32d172093cfb11b14d4a2edb1b02a73f.js": "/ilast-news/precache-manifest.32d172093cfb11b14d4a2edb1b02a73f.js",
+    "service-worker.js": "/ilast-news/service-worker.js",
+    "static/css/2.39de1a12.chunk.css.map": "/ilast-news/static/css/2.39de1a12.chunk.css.map",
+    "static/css/main.0e0ac034.chunk.css.map": "/ilast-news/static/css/main.0e0ac034.chunk.css.map",
+    "static/media/font-awesome.min.css": "/ilast-news/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89c341af.js",
+    "static/css/2.39de1a12.chunk.css",
+    "static/js/2.5f07895d.chunk.js",
+    "static/css/main.0e0ac034.chunk.css",
+    "static/js/main.fcfc458c.chunk.js"
+  ]
+}
